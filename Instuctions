@@ -1,0 +1,12 @@
+This playes the game piano tiles
+game : https://www.agame.com/game/magic-piano-tiles
+
+instructions:
+open the game and go to the main menu and run the program
+don't start the game but before place cursor on upper left corner and press 'r' the same for lower right corner and again press 'r'
+This calculate position of tiles
+once done the bot will start automaticlly and start playing.
+
+NOTE:
+while playing don't move the mouse it may cause the bot to miss a tile
+Dont change the resolution while playing (ie don't maximize or minimize)
