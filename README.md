@@ -1,6 +1,6 @@
 # Piano-Tiles-Bot
 
-This is a Python bot that plays the game [Magic Piano Tiles]([https://www.agame.com/game/magic-piano-tiles](https://www.gamesgames.com/game/magic-piano-tiles)) automatically.
+This is a Python bot that plays the game [Magic Piano Tiles](https://www.gamesgames.com/game/magic-piano-tiles) automatically.
 
 ## Instructions
 1. First, install the required libraries by running:
