@@ -1,7 +1,4 @@
-'''
-libraries
-except pyautogui all are preinstalled, 
-to install pyautogui type in terminal (for windows): pip install pyautogui '''
+
 import pyautogui as pag
 import win32api, win32con
 from keyboard import is_pressed
